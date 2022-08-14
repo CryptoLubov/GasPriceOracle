@@ -51,3 +51,4 @@
 # optimize 1327
 # refactor 1744
 # refactor 3564
+# refactor 1620
