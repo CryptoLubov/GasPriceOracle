@@ -15,3 +15,4 @@
 # optimize 8998
 # refactor 5723
 # fix 7130
+# optimize 6791
