@@ -14,3 +14,4 @@
 # fix 7176
 # optimize 8998
 # refactor 5723
+# fix 7130
